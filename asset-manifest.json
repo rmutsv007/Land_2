@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rmutsv007/Jirawat/static/css/main.18ff8d0f.css",
-    "main.js": "/rmutsv007/Jirawat/static/js/main.6eaa4052.js",
-    "static/js/488.5dc00adb.chunk.js": "/rmutsv007/Jirawat/static/js/488.5dc00adb.chunk.js",
-    "static/media/map.png": "/rmutsv007/Jirawat/static/media/map.ba21435080fcce27ca31.png",
-    "static/media/Marker.png": "/rmutsv007/Jirawat/static/media/Marker.0fc87dbf4ac94d0b1fab.png",
-    "index.html": "/rmutsv007/Jirawat/index.html",
-    "main.18ff8d0f.css.map": "/rmutsv007/Jirawat/static/css/main.18ff8d0f.css.map",
-    "main.6eaa4052.js.map": "/rmutsv007/Jirawat/static/js/main.6eaa4052.js.map",
-    "488.5dc00adb.chunk.js.map": "/rmutsv007/Jirawat/static/js/488.5dc00adb.chunk.js.map"
+    "main.css": "/rmutsv007/Land_2/static/css/main.c7034b4f.css",
+    "main.js": "/rmutsv007/Land_2/static/js/main.c2540c8d.js",
+    "static/js/488.5dc00adb.chunk.js": "/rmutsv007/Land_2/static/js/488.5dc00adb.chunk.js",
+    "static/media/map.png": "/rmutsv007/Land_2/static/media/map.ba21435080fcce27ca31.png",
+    "static/media/Marker.png": "/rmutsv007/Land_2/static/media/Marker.0fc87dbf4ac94d0b1fab.png",
+    "index.html": "/rmutsv007/Land_2/index.html",
+    "main.c7034b4f.css.map": "/rmutsv007/Land_2/static/css/main.c7034b4f.css.map",
+    "main.c2540c8d.js.map": "/rmutsv007/Land_2/static/js/main.c2540c8d.js.map",
+    "488.5dc00adb.chunk.js.map": "/rmutsv007/Land_2/static/js/488.5dc00adb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18ff8d0f.css",
-    "static/js/main.6eaa4052.js"
+    "static/css/main.c7034b4f.css",
+    "static/js/main.c2540c8d.js"
   ]
 }
