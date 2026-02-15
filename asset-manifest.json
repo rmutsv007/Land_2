@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/Land_2/static/css/main.30524d69.css",
-    "main.js": "/Land_2/static/js/main.1e4f1f3f.js",
-    "static/js/488.5dc00adb.chunk.js": "/Land_2/static/js/488.5dc00adb.chunk.js",
-    "static/media/iannnnnPDF2008.ttf": "/Land_2/static/media/iannnnnPDF2008.7028adec85f88ab77cdd.ttf",
-    "static/media/map.png": "/Land_2/static/media/map.ba21435080fcce27ca31.png",
-    "static/media/Marker.png": "/Land_2/static/media/Marker.0fc87dbf4ac94d0b1fab.png",
-    "index.html": "/Land_2/index.html",
-    "main.30524d69.css.map": "/Land_2/static/css/main.30524d69.css.map",
-    "main.1e4f1f3f.js.map": "/Land_2/static/js/main.1e4f1f3f.js.map",
-    "488.5dc00adb.chunk.js.map": "/Land_2/static/js/488.5dc00adb.chunk.js.map"
+    "main.css": "/rmutsv007/Land_2/static/css/main.67adb331.css",
+    "main.js": "/rmutsv007/Land_2/static/js/main.53357a48.js",
+    "static/js/488.5dc00adb.chunk.js": "/rmutsv007/Land_2/static/js/488.5dc00adb.chunk.js",
+    "static/media/map.png": "/rmutsv007/Land_2/static/media/map.ba21435080fcce27ca31.png",
+    "static/media/Marker.png": "/rmutsv007/Land_2/static/media/Marker.0fc87dbf4ac94d0b1fab.png",
+    "index.html": "/rmutsv007/Land_2/index.html",
+    "main.67adb331.css.map": "/rmutsv007/Land_2/static/css/main.67adb331.css.map",
+    "main.53357a48.js.map": "/rmutsv007/Land_2/static/js/main.53357a48.js.map",
+    "488.5dc00adb.chunk.js.map": "/rmutsv007/Land_2/static/js/488.5dc00adb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30524d69.css",
-    "static/js/main.1e4f1f3f.js"
+    "static/css/main.67adb331.css",
+    "static/js/main.53357a48.js"
   ]
 }
